@@ -9,3 +9,23 @@ A [palavra](https://pt.wikipedia.org/wiki/Palavra) tem origem nos tempos em que 
 O termo **política** é derivado do [grego antigo](https://pt.wikipedia.org/wiki/Língua_grega_antiga) πολιτεία (*politeía*), que indicava todos os procedimentos relativos à *Pólis*, ou cidade-Estado grega. Por extensão, poderia significar tanto cidade-Estado quanto [sociedade](https://pt.wikipedia.org/wiki/Sociedade), [comunidade](https://pt.wikipedia.org/wiki/Comunidade), [coletividade](https://pt.wikipedia.org/wiki/Coletividade) e outras definições referentes à vida urbana.
 
 O livro de [Platão](https://pt.wikipedia.org/wiki/Platão) traduzido como "[A República](https://pt.wikipedia.org/wiki/A_República)" é, no original, intitulado "Πολιτεία" (*Politeía*).
+
+
+
+# POLITICA SOCIAL
+
+**Política social** é um termo que é aplicado a várias áreas da política, geralmente dentro de um ambiente governamental ou político (como o estado de bem-estar social e o estudo dos serviços sociais).
+
+Pode se referir a diretrizes, princípios, legislação e atividades que afetam as condições de vida conducentes ao bem-estar humano, como a qualidade de vida de uma pessoa.
+
+A política social também pode ser descrita como ações que afetam o bem-estar dos membros de uma sociedade através da definição da distribuição e acesso a bens e recursos nessa sociedade.
+
+**Políticas sociais – Sociedades**
+
+A **política social** está preocupada com as maneiras pelas quais as sociedades em todo o mundo atendem às necessidades humanas de segurança, educação, trabalho, saúde e bem-estar.
+
+A política social aborda como os estados e as sociedades respondem aos desafios globais de mudança social, demográfica e econômica e de pobreza, migração e globalização.
+
+**A política social analisa os diferentes papéis de:** governos nacionais, a família, a sociedade civil, o mercado e as organizações internacionais na prestação de serviços e apoio ao longo da vida desde a infância até a velhice. Esses serviços e apoios incluem apoio a crianças e famílias, educação e educação, moradia e renovação de vizinhança, manutenção de renda e redução da pobreza, apoio e treinamento para desempregados, aposentadorias, saúde e assistência social.
+
+A política social visa identificar e encontrar formas de reduzir as desigualdades no acesso a serviços e apoio entre grupos sociais definidos por status socioeconômico, raça, etnia, status de migração, gênero, orientação sexual, deficiência e idade e entre países.
